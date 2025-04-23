@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Rivera ✨</h1>
 <p align="center">
-  <img src="https://imgur.com/a/vDwo2zP" width="300">
+  <img src="[https://imgur.com/a/vDwo2zP](https://imgur.com/4m5CGDq)" width="300">
 </p>
 
 <h3 align="center">👨‍💻 Software Engineering | 💡 Backend | 🇨🇴 Colombia</h3>
@@ -30,7 +30,7 @@
 
 <h2>📫 Let's Connect</h2>
 <p>
-  <a href="https://www.linkedin.com/in/jriverah46/" target="_blank">
+  <a href="www.linkedin.com/in/jose-rivera-herrera-310726361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

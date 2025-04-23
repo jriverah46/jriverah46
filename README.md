@@ -30,7 +30,7 @@
 
 <h2>📫 Let's Connect</h2>
 <p>
-  <a href="www.linkedin.com/in/jose-rivera-herrera-310726361" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-rivera-herrera-310726361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

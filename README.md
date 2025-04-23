@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Rivera ✨</h1>
 <p align="center">
-  <img src="https://i.imgur.com/4m5CGDq.gif" width="300">
+  <img src="https://i.imgur.com/4m5CGDq.gif" width="1000">
 </p>
 
 <h3 align="center">👨‍💻 Software Engineering | 💡 Backend | 🇨🇴 Colombia</h3>
